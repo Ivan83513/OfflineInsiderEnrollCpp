@@ -15,5 +15,8 @@ There's English and Chinese version for this program.
 # Bugs
 This is my first try for writing a C++ program wihich can edit the system. **There may have bugs in the program!** If you got bugs, please report it in "Issues" page.
 
+# We're trying to...
+We're trying to make this program supports Windows 10 (maybe for build 1809 or later) and ARM64 devices.
+
 # Source code
 The source code is placed at OfflineInsiderEnrollCpp/Code/v*.*/OfflineInsiderEnrollCpp.cpp
