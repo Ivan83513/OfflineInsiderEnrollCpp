@@ -12,6 +12,10 @@ All requirement is placed in the zip/7z flies. If you want to download it again,
 # Languages
 There's English and Chinese version for this program.
 
+# Screenshot
+<img width="1958" height="1050" alt="image" src="https://github.com/user-attachments/assets/1d4d6110-5ab2-497c-b467-250547797666" />
+
+
 # Bugs
 This is my first try for writing a C++ program wihich can edit the system. **There may have bugs in the program!** If you got bugs, please report it in "Issues" page.
 
