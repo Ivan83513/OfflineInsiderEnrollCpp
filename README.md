@@ -7,7 +7,7 @@ Please download the program via the "Releases" page.
 # Requirement
 This program is **only for Windows 11**!
 Because of some problem, I can't make the version for ARM64 yet.
-All requirement is placed in the zip/7z flies. If you want to download it again, please get it from OfflineInsiderEnrollCpp/Requirements/*.dll.
+All requirement is placed in the zip flies. If you want to download it again, please get it from OfflineInsiderEnrollCpp/Requirements/*.dll.
 
 # Languages
 There's English and Chinese version for this program.
