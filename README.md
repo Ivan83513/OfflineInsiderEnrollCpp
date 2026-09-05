@@ -1,27 +1,20 @@
 # OfflineInsiderEnroll2
 A program which helps you to enroll the Windows Insider Program without internet connection (Internet connection is needed when checking and downloading update).
+> [!IMPORTANT]
+> Still devloping! I'm rewriting the program. See the old version: https://github.com/Ivan83513/OfflineInsiderEnrollCpp[url].
 
-# Downloading
+## Downloading
 Please download the program via the "Releases" page.
 
-# Requirement
+## Requirement
 This program is **only for Windows 11**!
-Because of some problem, I can't make the version for ARM64 yet.
-All requirement is placed in the zip flies. If you want to download it again, please get it from OfflineInsiderEnrollCpp/Requirements/*.dll.
+I can't promise the program can really enroll the channel probably. But I will release the stable version "2.0" later. I'm sure it can run probably on Windows 11.
 
-# Languages
-There's English and Chinese version for this program.
+## Languages
+Chinese and English version is availble.
 
-# Screenshot
-<img width="1958" height="1050" alt="image" src="https://github.com/user-attachments/assets/1d4d6110-5ab2-497c-b467-250547797666" />
+## Screenshot
+Wait for the stable version "2.0"!
 
-
-# Bugs
-This is my first try for writing a C++ program wihich can edit the system. **There may have a lot of bugs in the program!** If you got bugs, please report it in "Issues" page.
-
-# I'm trying to...
-I'm trying to make this program supports Windows 10 (maybe for build 1809 or later) and ARM64 devices.
-Also trying to use Win32 API to write this program to make it faster.
-
-# Source code
-The source code is placed at OfflineInsiderEnrollCpp/Code/v*.*/OfflineInsiderEnrollCpp.cpp
+## Source code
+I will not publish the source code yet. Please wait for the first stable version, thank you.
